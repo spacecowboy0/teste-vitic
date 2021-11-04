@@ -1,0 +1,73 @@
+body {
+    background-color: #f3dfc6;
+}
+
+.topo {
+    background-color: #FF0000;
+    height: 50px;
+}
+
+body div h3 {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 25pt;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.menu2 {
+    background-color: #a52a2a;
+    height: 50px;
+
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 15pt;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 10px;
+}
+
+nav ul li {
+    text-decoration: none;
+    display: inline;
+    margin: 30px;
+}
+
+.prodNome {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 30pt;
+    color: #000000;
+    text-align: center;
+}
+
+.produto {
+    width: 600px;
+    position: relative;
+    padding-left: 150px;
+}
+
+#preco {
+    background-color: #a9a9a9;
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+    position: relative;
+    padding-right: 100px;
+}
+
+.precoOriginal {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 15pt;
+    color: #000000;
+    text-decoration: line-through;
+}
+
+.precoAtual {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 30pt;
+    color: #000000;
+}
